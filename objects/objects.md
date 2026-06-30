@@ -51,9 +51,9 @@
 
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
-| mangosteen | ![](known_objects/fruits!fruit/mangosteen.jpeg) |
 |  | ![](known_objects/fruits!fruit/.DS_Store) |
 | apple | ![](known_objects/fruits!fruit/apple.jpeg) |
+| mangostane | ![](known_objects/fruits!fruit/mangostane.jpeg) |
 | red_bellpepper | ![](known_objects/fruits!fruit/red_bellpepper.jpeg) |
 | peach | ![](known_objects/fruits!fruit/peach.jpeg) |
 | lemon | ![](known_objects/fruits!fruit/lemon.jpeg) |
