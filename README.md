@@ -1,4 +1,4 @@
-# LocationYear
+# Incheon 2026
 
 ## Table of Contents
 
@@ -25,17 +25,15 @@
 
 | Team   |  DL | GPSR | HRI |    PP | Poster | Restaurant | Total Score |
 |--------|----:|-----:|----:|------:|-------:|-----------:|------------:|
-| Nimbro | 465 |  805 | 870 | 140.0 |     35 |       1120 |      3435.0 |
-| SCC    |  15 |  570 | 435 |  35.0 |     40 |        200 |      1295.0 |
-| Tobi   |  15 |  555 | 370 | 127.5 |     35 |          0 |      1102.5 |
-| Bit    |   0 |    0 |   0 |   0.0 |     35 |          0 |        35.0 |
 
-Individual Task scores can be found [here](scores.md)
+
 
 ## Schedule
 
-|       |       Tue 10        |       Wed 11        |            Thu 12             |       Fri 13        | Sat 14 |
+|       |       Tue 30        |       Wed 01        |            Thu 02             |       Fri 03        | Sat 04 |
 | ----- | ------------------- | ------------------- | ----------------------------- | ------------------- | ------ |
+| 07:00 |                     |                     |                               |                     |        |
+| 08:00 |                     | HRI Challenge       | HRI Challenge                 | HRI Challenge       |        |
 | 09:00 |                     |                     |                               |                     |        |
 | 10:00 |                     | HRI Challenge       | HRI Challenge                 | HRI Challenge       |        |
 | 11:00 |                     |                     | Opening Ceremony: 11:45–12:15 | Pick & Place        |        |
@@ -48,6 +46,9 @@ Individual Task scores can be found [here](scores.md)
 | 18:00 | Poster Session      |                     |                               |                     |        |
 | 19:00 |                     | Team Leader Meeting | Team Leader Meeting           | Team Leader Meeting |        |
 | 20:00 |                     |                     |                               |                     |        |
+| 21:00 | Poster Session      |                     |                               |                     |        |
+| 22:00 |                     | Team Leader Meeting | Team Leader Meeting           | Team Leader Meeting |        |
+| 23:00 |                     |                     |                               |                     |        |
 
 ### Individual Shedules
 
