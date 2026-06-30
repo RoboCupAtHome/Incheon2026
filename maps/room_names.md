@@ -3,8 +3,5 @@
 | ------------ |  
 | bedroom | 
 | kitchen | 
-| office | 
+| laundry | 
 | living room | 
-| bathroom | 
-
-
