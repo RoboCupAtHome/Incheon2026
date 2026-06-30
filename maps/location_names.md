@@ -1,27 +1,24 @@
 ## Locations
 | Number | Name  | Object Category
 | ------------ | ----------- | ----------- |
-| 1 | bed (p) |
-| 2 | bedside table (p) |
-| 3 | shelf (p) | cleaning supplies |
-| 4 | trashbin a|
-| 5 | dishwasher (p) |
-| 6 | trashbin b |
-| 7 | kitchen table (p) | dishes |
-| 8 | chairs |
-| 9 | pantry (p) | food |
-| 10 | refrigerator (p) |
-| 11 | sink (p) |
-| 12 | cabinet (p) | drinks |
-| 14 | laundry desk (p) | fruits |
-| 17 | waste basket |
-| 18 | tv stand (p) |
-| 19 | storage rack (p) |
-| 20 | lamp |
-| 21 | side tables (p) | snacks |
-| 22 | sofa (p) |
-| 23 | bookshelf (p) | toys |
-| 24 | entrance |
-| 25 | exit |
+| 1 | laundry table (p) | fabrics |
+| 2 | washing machine (p) |
+| 3 | shelf (p) | snacks |
+| 4 | laundry trash bin (p) |
+| 5 | bed (p) | toys |
+| 6 | tv stand (p) |
+| 7 | sofa (p) |
+| 8 | coffee table (p) | foods |
+| 9 | cabinet (p) | drinks |
+| 10 | refrigerator |
+| 11 | counter (p) |
+| 12 | sink |
+| 13 | cooking table (p) cleaning supplies |
+| 14 | dishwasher (p) | dishes |
+| 15 | kitchen trash bin |
+| 16 | dinner table (p) | fruits |
+| 17 | chair (p) |
+| 17 | entrance |
+| 18 | exit |
 
 (p) indicated whether objects can be placed at the location
