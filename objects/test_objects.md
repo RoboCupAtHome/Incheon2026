@@ -10,3 +10,5 @@
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
 | dishwasher_tab | ![](test_objects/clean_the_table/dishwasher_tab.jpeg) |
+
+
