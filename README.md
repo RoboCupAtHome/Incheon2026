@@ -30,25 +30,37 @@
 
 ## Schedule
 
-|       |       Tue 30        |       Wed 01        |            Thu 02             |       Fri 03        | Sat 04 |
-| ----- | ------------------- | ------------------- | ----------------------------- | ------------------- | ------ |
-| 07:00 |                     |                     |                               |                     |        |
-| 08:00 |                     | HRI Challenge       | HRI Challenge                 | HRI Challenge       |        |
-| 09:00 |                     |                     |                               |                     |        |
-| 10:00 |                     | HRI Challenge       | HRI Challenge                 | HRI Challenge       |        |
-| 11:00 |                     |                     | Opening Ceremony: 11:45–12:15 | Pick & Place        |        |
-| 12:00 |                     | Pick & Place        |                               |                     | Final  |
-| 13:00 | Team Leader Meeting |                     | Pick & Place                  | Doing Laundry       |        |
-| 14:00 |                     | Doing Laundry       |                               |                     |        |
-| 15:00 |                     |                     | Doing Laundry                 |                     |        |
-| 16:00 |                     | GPSR                |                               | Restaurant          |        |
-| 17:00 | Robot Inspection    | Major Reception     | GPSR                          |                     |        |
-| 18:00 | Poster Session      |                     |                               |                     |        |
-| 19:00 |                     | Team Leader Meeting | Team Leader Meeting           | Team Leader Meeting |        |
-| 20:00 |                     |                     |                               |                     |        |
-| 21:00 | Poster Session      |                     |                               |                     |        |
-| 22:00 |                     | Team Leader Meeting | Team Leader Meeting           | Team Leader Meeting |        |
-| 23:00 |                     |                     |                               |                     |        |
+|       | Tue 30              | Wed 01              | Thu 02                            | Fri 03                            | Sat 04                            | Sun 05  |
+| ----- | ------------------- | ------------------- | --------------------------------- | --------------------------------- | --------------------------------- | ------- |
+| 08:00 |                     |                     |                                   |                                   | Restaurant                        |         |
+| 08:30 |                     |                     |                                   |                                   | Restaurant                        |         |
+| 09:00 |                     |                     |                                   |                                   | Restaurant                        |         |
+| 09:30 |                     |                     | Human Robot Interaction Challenge | Human Robot Interaction Challenge | Restaurant                        |         |
+| 10:00 |                     | Arena Mapping       | Human Robot Interaction Challenge | Human Robot Interaction Challenge | Restaurant                        |         |
+| 10:30 |                     | Arena Mapping       | Human Robot Interaction Challenge | Human Robot Interaction Challenge | Restaurant                        |         |
+| 11:00 |                     | Arena Mapping       | Pick And Place Challenge          | Pick And Place Challenge          |                                   |         |
+| 11:30 |                     | Arena Mapping       | Pick And Place Challenge          | Pick And Place Challenge          |                                   |         |
+| 12:00 |                     | Arena Mapping       | Pick And Place Challenge          | Pick And Place Challenge          | Human Robot Interaction Challenge |         |
+| 12:30 |                     | Arena Mapping       |                                   |                                   | Human Robot Interaction Challenge |         |
+| 13:00 |                     | Arena Mapping       |                                   |                                   | Human Robot Interaction Challenge |         |
+| 13:30 |                     | Arena Mapping       |                                   |                                   | Pick And Place Challenge          |         |
+| 14:00 |                     |                     |                                   |                                   | Pick And Place Challenge          |         |
+| 14:30 |                     |                     |                                   |                                   | Pick And Place Challenge          |         |
+| 15:00 | Team Leader Meeting |                     |                                   |                                   |                                   |         |
+| 15:30 | Team Leader Meeting |                     |                                   |                                   |                                   |         |
+| 16:00 |                     |                     | Opening Ceremony                  | GPSR                              | GPSR                              |         |
+| 16:30 |                     |                     | Opening Ceremony                  | GPSR                              | GPSR                              |         |
+| 17:00 |                     | Robot Inspection    |                                   | GPSR                              | GPSR                              |         |
+| 17:30 |                     | Robot Inspection    | GPSR                              | Doing Laundry                     | Doing Laundry                     |         |
+| 18:00 |                     | Poster Session      | GPSR                              | Doing Laundry                     | Doing Laundry                     |         |
+| 18:30 |                     | Poster Session      | GPSR                              | Doing Laundry                     | Doing Laundry                     |         |
+| 19:00 |                     |                     | Doing Laundry                     |                                   |                                   |         |
+| 19:30 |                     |                     | Doing Laundry                     |                                   | Committee Vote                    |         |
+| 20:00 |                     | Team Leader Meeting | Doing Laundry                     | Team Leader Meeting               | Committee Vote                    |         |
+| 20:30 |                     | Team Leader Meeting |                                   | Team Leader Meeting               | Team Leader Meeting               |         |
+| 21:00 |                     |                     | Team Leader Meeting               |                                   | Team Leader Meeting               |         |
+| 21:30 |                     |                     | Team Leader Meeting               |                                   |                                   |         |
+
 
 ### Individual Shedules
 
