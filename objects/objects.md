@@ -27,6 +27,7 @@
 | coke_zero_can | ![](known_objects/drinks!drink/coke_zero_can.jpeg) |
 | milk | ![](known_objects/drinks!drink/milk.jpeg) |
 | pepsi | ![](known_objects/drinks!drink/pepsi.jpeg) |
+| red_bull | ![](known_objects/drinks!drink/red_bull.jpeg) |
 | soju | ![](known_objects/drinks!drink/soju.jpeg) |
 
 
