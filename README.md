@@ -76,9 +76,13 @@
 ### General Information
 
 - Arena
-  - [Arena map](maps/arena.png)
-  - [Task map](maps/arena_task.png)
+  - [Arena map](maps/Arena.png)
+  - [Arenas ID](maps/Arenas.png)
   - [Location names](maps/location_names.md)
+  - [Location names in arena](maps/LocationsNames.png)
+  - [Location of objects in arena](maps/LocationsObjects.png)
+  - [Task map](maps/tasks)
+
 - Objects
   - [Known Objects](objects/objects.md)
   - [Test Objects](objects/test_objects.md)
@@ -88,8 +92,8 @@
 
 #### Pick Place
 
-- "xxx" will be the trash category
+- "fruits" will be the trash category
 
 ## Robot Inspection and Poster Session
-![](maps/map_robot_inspection.png)
+![](maps/inspection.png)
 
