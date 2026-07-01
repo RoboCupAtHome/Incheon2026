@@ -43,12 +43,12 @@
 ### General Information
 
 - Arena
-  - [Arena map](maps/Arena.png)
-  - [Arenas ID](maps/Arenas.png)
+  - ![Arena map](maps/Arena.png)
+  - ![Arenas ID](maps/Arenas.png)
+- Locations
   - [Location names](maps/location_names.md)
-  - [Location names in arena](maps/LocationsNames.png)
-  - [Location of objects in arena](maps/LocationsObjects.png)
-  - [Task map](maps/tasks)
+  - ![Location names in arena](maps/LocationsNames.png)
+  - ![Location of objects in arena](maps/LocationsObjects.png)
 
 - Objects
   - [Known Objects](objects/objects.md)
@@ -57,10 +57,19 @@
 
 ## Tasks
 
-#### Pick Place
+### Robot Inspection
+![map](maps/Inspection.png)
 
-- "fruits" will be the trash category
+### Humam Robot Interaction (HRI)
+![map](maps/tasks/HRI.png)
 
-## Robot Inspection and Poster Session
-![](maps/inspection.png)
+#### Pick & Place (P&P)
+![map](maps/tasks/P&P.png)
+
+### General Purpose Service Robot (GPSR)
+![map](maps/tasks/GPSR.png)
+
+### Doing Laundr (DL)
+![map](maps/tasks/DL.png)
+
 
