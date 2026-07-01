@@ -17,8 +17,9 @@
 | 14 | dishwasher (p) | dishes |
 | 15 | kitchen trash bin |
 | 16 | dinner table (p) | fruits |
-| 17 | chair (p) |
-| 17 | entrance |
-| 18 | exit |
+| 17 | bedside table (p) |
+| 18 | coat rack | 
+| 19 | entrance |
+| 20 | exit |
 
 (p) indicated whether objects can be placed at the location
