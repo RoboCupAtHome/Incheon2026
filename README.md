@@ -2,31 +2,9 @@
 
 ## Table of Contents
 
-- [Scores](#scores)
 - [Schedule](#schedule)
-    + [Mapping Slots](#mapping-slots)
-    + [Arena DSPL Mapping Slots](#arena-dspl-mapping-slots)
 - [Arenas](#arenas)
-    + [OPL Teams](#opl-teams)
-    + [DSPL Teams](#dspl-teams)
-    + [Arena Map](#arena-map)
-- [Robot Inspection and Poster Session](#robot-inspection-and-poster-session)
-- [Stage 1](#stage-1)
-    + [Receptionist](#receptionist)
-    + [Storing Groceries](#storing-groceries)
-    + [Carry my Luggage](#carry-my-luggage)
-    + [GPSR](#gpsr)
-- [Stage 2](#stage-2)
-    + [Clean the Table](#clean-the-table)
-    + [Stickler for the Rules](#stickler-for-the-rules)
-    + [EGPSR](#egpsr)
-
-## Scores
-
-| Team   |  DL | GPSR | HRI |    PP | Poster | Restaurant | Total Score |
-|--------|----:|-----:|----:|------:|-------:|-----------:|------------:|
-
-
+- [Tasks](#stage-1)
 
 ## Schedule
 
@@ -60,17 +38,6 @@
 | 20:30 |                     | Team Leader Meeting |                                   | Team Leader Meeting               | Team Leader Meeting               |         |
 | 21:00 |                     |                     | Team Leader Meeting               |                                   | Team Leader Meeting               |         |
 | 21:30 |                     |                     | Team Leader Meeting               |                                   |                                   |         |
-
-
-### Individual Shedules
-
-...
-
-### Mapping Slots
-
-...
-
-
 ## Arenas
 
 ### General Information
@@ -88,7 +55,7 @@
   - [Test Objects](objects/test_objects.md)
 - [Additional Objects](objects/test_objects.md)
 
-### Tasks
+## Tasks
 
 #### Pick Place
 
