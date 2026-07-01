@@ -4,7 +4,7 @@
 
 - [Schedule](#schedule)
 - [Arenas](#arenas)
-- [Tasks](#stage-1)
+- [Tasks](#tasks)
 
 ## Schedule
 
